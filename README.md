@@ -2,7 +2,7 @@
 
 ## Overview
 
-This **HR Dashboard** provides key insights into employee data, including gender distribution, promotions, retrenchments, and job satisfaction.
+This project is an interactive **HR Dashboard** built using Power BI, designed to provide critical insights into employee data for better decision-making. The dashboard showcases a variety of metrics related to gender distribution, promotions, retrenchments, and job satisfaction levels within an organization.
 
 ## Features
 
