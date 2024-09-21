@@ -21,8 +21,4 @@ This **HR Dashboard** provides key insights into employee data, including gender
 - **Distance Status**: Categorized into "Very far" to "Very close."
 - **Job Satisfaction**: High (38.71%), Low (31.22%).
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
